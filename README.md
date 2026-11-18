@@ -4,10 +4,11 @@
 ---
 ### Application Software Engineer · AI/ML Engineer · Application Security Engineer
 ---
-<br/>
 </div>
 
-I build intelligent software applications by combining **AI engineering, data, full-stack software development, and application security** to solve real-world problems.
+## About Me
+
+I'm a full stack engineer focused on building intelligent software applications by combining **AI engineering, data, full-stack software development, and application security** to solve real-world problems.
 
 I'm particularly interested in the intersection of **Artificial Intelligence, Data, Software Engineering, and Cybersecurity** — exploring how these disciplines come together to build intelligent, scalable, reliable, and secure technology.
 
