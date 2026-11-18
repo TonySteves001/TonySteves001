@@ -1,6 +1,6 @@
-# Hi, I'm Anthony
+# Hi, I'm Anthony Stephen
 
-### AI Engineer · Application Software Engineer · Application Security Engineer
+### Application Software Engineer · AI/ML Engineer · Application Security Engineer
 
 I build intelligent software applications by combining **AI engineering, data, full-stack software development, and application security** to solve real-world problems.
 
@@ -76,12 +76,16 @@ Securing software applications by identifying vulnerabilities, assessing threats
 - CSS
 - React
 - Next.js
+- TailwindCSS
 
-**Backend Development**
+**Backend & Mobile Development**
 - Django
 - FastAPI
 - Node.js
 - NestJS
+- ReactNative
+- Dart
+- Flutter
 
 **Databases**
 - PostgreSQL
@@ -94,6 +98,8 @@ Securing software applications by identifying vulnerabilities, assessing threats
 - Docker
 - Linux
 - Postman
+- npm
+- pnpm
 
 ---
 
