@@ -63,9 +63,8 @@ Securing software applications by identifying vulnerabilities, assessing threats
 
 ## 🔭 Areas of Interest
 - Artificial Intelligence & Machine Learning
-- Data Science and Data Engineering
 - Deep Learning and LLM Applications
-- Computer Vision, NLP, Time-Series & Audio AI
+- NLP, Time-Series
 - Full-Stack Software Engineering
 - Backend Systems & API Development
 - Software Architecture and System Design
