@@ -10,10 +10,10 @@
 
 <br/>
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![X (Twitter)](https://shields.io)](https://x.com)
-[![Instagram](https://shields.io)](https://instagram.com)
-[![Kaggle](https://shields.io)](https://kaggle.com)
+[![LinkedIn](https://shields.io)]([https://linkedin.com](https://www.linkedin.com/in/tonysteves001))
+[![X (Twitter)](https://shields.io)]([https://x.com](https://x.com/TonySteves001))
+[![Instagram](https://shields.io)]([https://instagram.com](https://www.instagram.com/tonysteves001/))
+[![Kaggle](https://shields.io)]([https://kaggle.com](https://www.kaggle.com/tonysteves001))
 [![Email](https://shields.io)](mailto:tonysteveaso001@gmail.com)
 
 <br/>
@@ -168,10 +168,10 @@ I'm open to connecting with developers, engineers, researchers, founders, and pe
 
 <div align="center">
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![X (Twitter)](https://shields.io)](https://x.com)
-[![Instagram](https://shields.io)](https://instagram.com)
-[![Kaggle](https://shields.io)](https://kaggle.com)
+[![LinkedIn](https://shields.io)]([https://linkedin.com](https://www.linkedin.com/in/tonysteves001))
+[![X (Twitter)](https://shields.io)]([https://x.com](https://x.com/TonySteves001))
+[![Instagram](https://shields.io)]([https://instagram.com](https://www.instagram.com/tonysteves001/))
+[![Kaggle](https://shields.io)]([https://kaggle.com](https://www.kaggle.com/tonysteves001))
 [![Email](https://shields.io)](mailto:tonysteveaso001@gmail.com)
 
 </div>
