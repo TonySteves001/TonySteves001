@@ -109,6 +109,11 @@ Securing software applications by identifying vulnerabilities, assessing threats
 ![MySQL](https://shields.io)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+### Security & Testing
+![Burp Suite](https://shields.io)
+![OWASP ZAP](https://shields.io)
+![MobSF](https://shields.io)
+
 ### Systems & Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -180,7 +185,7 @@ I'm open to connecting with developers, engineers, researchers, founders, and pe
 ---
 
 ## 💡 Personal Philosophy
-I believe technology should not only be intelligent, but also scalable, reliable, and secure.
+I believe technology should not only be intelligent, but also scalable, reliable, and secure by design and development.
 
 **Engineering intelligence. Building solutions. Securing innovation.**  
 *Always learning, experimenting, and building.*
