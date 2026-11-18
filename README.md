@@ -46,7 +46,7 @@ Designing, developing, and deploying intelligent systems using machine learning,
 ### 💻 Application Software Engineering
 Designing, developing, and maintaining scalable software applications through frontend interfaces, backend systems, APIs, databases, and software architecture.
 - Frontend and Backend Development
-- Full-Stack Application Development
+- Full-Stack Application Development (Web & Mobile)
 - API Design and Integration
 - Database Engineering
 - Software Architecture and System Design
@@ -54,6 +54,7 @@ Designing, developing, and maintaining scalable software applications through fr
 ### 🛡️ Application Security Engineering
 Securing software applications by identifying vulnerabilities, assessing threats, implementing security controls, and integrating security practices throughout the Secure Software Development Lifecycle (SSDLC).
 - Web Application Security
+- Mobile Application Security
 - API Security
 - Secure Software Development
 - Vulnerability Assessment
