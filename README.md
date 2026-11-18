@@ -1,8 +1,9 @@
 <div align="center">
+
 # Hi, I'm Anthony Stephen
-
+---
 ### Application Software Engineer · AI/ML Engineer · Application Security Engineer
-
+---
 <br/>
 </div>
 
