@@ -17,9 +17,7 @@ Designing, developing, and deploying intelligent systems using machine learning,
 - Classical Machine Learning
 - Deep Learning
 - Natural Language Processing (NLP) & Large Language Models (LLMs)
-- Computer Vision
 - Time-Series Analysis
-- Audio AI
 
 ### Application Software Engineering
 
