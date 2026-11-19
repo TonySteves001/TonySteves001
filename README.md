@@ -193,27 +193,23 @@ By understanding how software is built, I can better understand how it can fail,
 
 <div align="center">
 
-### GitHub Statistics
+### GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TonySteves001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TonySteves001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Anthony's GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonySteves001&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonySteves001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
 ### Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=TonySteves001&theme=tokyonight&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=TonySteves001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-### Contribution Graph
+### Contribution Snake
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TonySteves001&theme=tokyo-night&hide_border=true" width="100%" />
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=TonySteves001&color=blue&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://github.com/TonySteves001/TonySteves001/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -228,10 +224,19 @@ If you're interested in AI, software engineering, data, cybersecurity, or buildi
 <div align="center">
 
 <a href="https://www.linkedin.com/in/tonysteves001">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://x.com/TonySteves001">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 <a href="https://www.instagram.com/tonysteves001/">
-  <img src="https://img.sh
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.kaggle.com/tonysteves001">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
+<a href="mailto:tonysteveaso001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
