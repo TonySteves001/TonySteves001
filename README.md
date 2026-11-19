@@ -193,19 +193,13 @@ By understanding how software is built, I can better understand how it can fail,
 
 <div align="center">
 
-### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=TonySteves001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TonySteves001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Anthony's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonySteves001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonySteves001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-<br/><br/>
-
-### Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=TonySteves001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
+---
 
 ### Contribution Snake
 
