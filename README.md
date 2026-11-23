@@ -1,8 +1,8 @@
 # Hi, I'm Anthony Stephen
 
-### Application Software Engineer · AI/ML Engineer · Application Security Engineer
+### Backend Software Engineer · Applied AI & Agent Engineer · Application Security Engineer
 
-*Engineering intelligence. Building solutions. Securing innovation.*
+*Engineering intelligent systems. Building reliable software. Securing applications.*
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-📍 Nigeria · 🎓 B.Sc. Cybersecurity (FUTO)
+📍 Nigeria · 🎓 B.Sc. Cybersecurity — Federal University of Technology, Owerri
 
 </div>
 
@@ -32,65 +32,115 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack engineer focused on building intelligent software applications by combining **AI engineering, data, full-stack software development, and application security** to solve real-world problems.
+I'm an aspiring **Backend Software Engineer and Applied AI & Agent Engineer**, with a strong interest in **Application Security**.
 
-I'm particularly interested in the intersection of **Artificial Intelligence, Data, Software Engineering, and Cybersecurity** — exploring how these disciplines come together to build intelligent, scalable, reliable, and secure technology.
+My engineering interests center on designing and building intelligent, reliable, scalable, and secure software systems.
+
+I focus on two primary engineering disciplines:
+
+- **Backend Software Engineering:** Building application logic, business systems, APIs, database architectures, distributed systems, and production infrastructure.
+- **Applied AI & Agent Engineering:** Building AI-powered applications, retrieval-augmented generation (RAG) systems, multimodal applications, and intelligent agents capable of reasoning, using tools, and executing complex workflows.
+
+My cybersecurity background also shapes how I approach engineering. I place importance on secure architecture, threat modeling, vulnerability assessment, application security testing, and integrating security throughout the software development lifecycle.
+
+I'm particularly interested in solving foundational problems through technology and building systems that deliver meaningful value to individuals, businesses, and organizations.
 
 ---
 
 ## 🎯 Professional Focus
 
-### 🤖 Artificial Intelligence Engineering
+### ⚙️ Backend Software Engineering
 
-Designing, developing, and deploying intelligent systems using machine learning, deep learning, and AI models to solve real-world problems through data-driven automation and prediction.
+Designing, developing, and maintaining backend systems that power software applications and business operations.
 
-- Classical Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP) & Large Language Models (LLMs)
-- Time-Series Analysis
+**Areas of focus:**
+
+- Backend Application Development
+- Business Logic & Application Engineering
+- REST API Design and Development
+- Database Engineering & Data Modeling
+- Authentication & Authorization
+- Software Architecture & Design Patterns
+- System Design & Distributed Systems
+- Performance Engineering & Caching
+- Asynchronous Processing & Background Jobs
+- Testing, Observability & Reliability Engineering
+- Docker, CI/CD & Cloud Infrastructure
+- Production Deployment & System Optimization
+
+**Primary technologies:** Python, TypeScript, Node.js, Express, FastAPI, PostgreSQL, Redis, Docker, Linux.
+
+### 🤖 Applied AI & Agent Engineering
+
+Building intelligent applications and AI systems that combine models, data, retrieval, tools, and execution workflows to solve practical problems.
+
+**Areas of focus:**
+
 - AI Application Development
-- Model Integration and Deployment
+- Large Language Models (LLMs)
+- Model Inference & Integration
+- Prompt Engineering & Context Engineering
+- Multimodal AI — Text, Vision, Audio & Video
+- AI Data Ingestion & Document Processing
+- Retrieval-Augmented Generation (RAG)
+- Embeddings, Vector Search & Reranking
+- Fine-Tuning & Model Adaptation
+- AI Agent Architecture & Runtime Engineering
+- Tool Calling & Model Context Protocol (MCP)
+- Agent Memory, State & Workflow Orchestration
+- Multi-Agent Systems
+- AI Evaluation & Quality Engineering
+- Inference Optimization & Model Serving
+- LLMOps, Deployment & Monitoring
 
-### 💻 Application Software Engineering
-
-Designing, developing, and maintaining scalable software applications through frontend interfaces, backend systems, APIs, databases, and software architecture.
-
-- Frontend and Backend Development
-- Full-Stack Application Development (Web & Mobile)
-- API Design and Integration
-- Database Engineering
-- Software Architecture and System Design
-- Application Development and Deployment
+**Primary technologies:** Python, FastAPI, Hugging Face, OpenAI APIs, Gemini, Anthropic, LangGraph, Pydantic AI, PostgreSQL, pgvector, Qdrant, Redis, vLLM, Ollama, Langfuse.
 
 ### 🛡️ Application Security Engineering
 
-Securing software applications by identifying vulnerabilities, assessing threats, implementing security controls, and integrating security practices throughout the Secure Software Development Lifecycle (SSDLC).
+Understanding how software systems fail, identifying vulnerabilities, assessing risks, and engineering security controls to protect applications, APIs, AI systems, and infrastructure.
 
-- Web Application Security
-- Mobile Application Security
-- API Security
+**Areas of focus:**
+
 - Secure Software Development
+- Web Application Security
+- Backend & API Security
+- Authentication & Authorization Security
+- OWASP Top 10 & OWASP API Security Top 10
+- Security Architecture & Threat Modeling
+- Secure Coding Practices
 - Vulnerability Assessment
-- Application Security Testing
-- Security Architecture and Threat Modeling
+- Penetration Testing
+- Security Code Review
+- SAST, DAST, SCA & IAST
+- API Security Testing
+- Black-Box, White-Box & Gray-Box Testing
+- AI Security & LLM Red Teaming
+- Prompt Injection & Agent Security
+- RAG & Data Security
+- Infrastructure & Application Hardening
+- Secure Software Development Lifecycle (SSDLC)
+
+**Tools and frameworks:** Burp Suite, OWASP ZAP, OWASP, MobSF, Promptfoo, Garak, PyRIT, and other security testing tools.
 
 ---
 
 ## 🔭 Areas of Interest
 
-- Artificial Intelligence & Machine Learning
-- Deep Learning and LLM Applications
-- NLP and Time-Series Analysis
-- Full-Stack Software Engineering
-- Backend Systems & API Development
-- Software Architecture and System Design
+- Backend Systems & Application Engineering
+- Software Architecture & Distributed Systems
+- Artificial Intelligence & Large Language Models
+- AI Applications & Agentic Systems
+- Multimodal AI & Document Intelligence
+- RAG & Knowledge Retrieval Systems
+- Model Inference & AI Infrastructure
 - Application & API Security
-- AI Security
-- Intelligent Software Systems
+- AI Security & Adversarial Testing
+- Secure and Reliable Software Systems
+- Technology Infrastructure & Innovation
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Technologies
 
 ### Programming Languages
 
@@ -100,58 +150,50 @@ Securing software applications by identifying vulnerabilities, assessing threats
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-### AI & Data Science
+### Backend Development & APIs
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-</p>
-
-### Frontend Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-### Backend & Mobile Development
-
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
 </p>
 
-### Databases
+### AI, Machine Learning & Agent Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+</p>
+
+### Databases & Data Engineering
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
-### Security & Testing
+### Application Security & Testing
 
 <p>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP" />
   <img src="https://img.shields.io/badge/MobSF-333333?style=flat-square&logo=android&logoColor=white" alt="MobSF" />
   <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
 </p>
 
-### Systems & Developer Tools
+### Infrastructure & Developer Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -176,11 +218,13 @@ Bachelor of Science (B.Sc.) in Cybersecurity
 
 ### 🔐 How Cybersecurity Shapes My Engineering Approach
 
-My cybersecurity background influences how I approach software engineering. I believe that effectively securing an application requires more than understanding vulnerabilities and security tools. It requires understanding how the application is designed, how its components interact, how its data flows, and how its underlying systems are engineered.
+My cybersecurity background influences how I approach software and AI engineering.
 
-This is why I place importance on understanding software architecture, backend systems, APIs, databases, authentication, authorization, infrastructure, and application behaviour.
+I believe effective security requires more than understanding vulnerabilities and security tools. It requires understanding how applications are designed, how their components interact, how data flows through systems, and how their underlying infrastructure operates.
 
-By understanding how software is built, I can better understand how it can fail, where vulnerabilities can emerge, and how security can be integrated into the engineering process from the beginning rather than treated as an afterthought.
+This is why I place importance on backend engineering, software architecture, APIs, databases, authentication, authorization, AI system architecture, and infrastructure.
+
+By understanding how software is engineered, I can better identify where vulnerabilities emerge and integrate security controls into systems from the design stage rather than treating security as an afterthought.
 
 ---
 
@@ -217,9 +261,9 @@ By understanding how software is built, I can better understand how it can fail,
 
 ## 🤝 Let's Connect
 
-I'm open to connecting with developers, engineers, researchers, founders, and people building meaningful technology.
+I'm open to connecting with software engineers, AI engineers, security researchers, developers, founders, and people building meaningful technology.
 
-If you're interested in AI, software engineering, data, cybersecurity, or building technology that solves real-world problems, let's connect.
+If you're interested in backend engineering, AI applications, intelligent agents, application security, or building technology that solves real-world problems, let's connect.
 
 <div align="center">
 
@@ -245,8 +289,10 @@ If you're interested in AI, software engineering, data, cybersecurity, or buildi
 
 ## 💡 Personal Philosophy
 
-I believe technology should not only be intelligent, but also scalable, reliable, and secure by design and development.
+I believe technology should not only be intelligent, but also reliable, scalable, and secure by design.
 
-**Engineering intelligence. Building solutions. Securing innovation.**
+I am interested in understanding and engineering the systems beneath the products we use — from backend infrastructure and distributed applications to AI models, intelligent agents, and application security.
+
+**Engineering intelligent systems. Building reliable software. Securing innovation.**
 
 *Always learning, experimenting, and building.*
